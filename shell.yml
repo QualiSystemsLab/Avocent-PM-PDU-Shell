@@ -3,5 +3,5 @@ shell:
     author: Aaron Rueth
     email: info@quali.com
     description: This shell control and Avocent PM Series PDU
-    version: 0.9.0
+    version: 0.8.0
     driver_name: Avocent PM PDU Driver
